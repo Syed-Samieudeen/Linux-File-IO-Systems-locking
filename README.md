@@ -142,7 +142,8 @@ int main(int argc, char *argv[]) {
 ```
 
 ## OUTPUT
-
+![filecopy](filecopy.jpeg)
+![filelock](filelock.jpeg)
 
 
 
